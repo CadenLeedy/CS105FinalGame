@@ -1,0 +1,2 @@
+C:\Users\c1eed\Downloads\my-game\Debug\my-game.exe
+C:\Users\c1eed\source\repos\my-game\Debug\my-game.exe
